@@ -23,9 +23,11 @@ Learn more about the GDCU and its aim and objectives with our instructors giving
 
 Furthermore, the R and Rstudio as your working toolset is introduced to have a better understanding of capabilities of working with R through your projects.
 
-{{< video https://collegerama.tudelft.nl/Mediasite/Play/87f50033c9a7421680c85245426bddaa1d width="450" height="300" >}}
+<iframe title="GDCU Workshop Day 1 Part 1 Intro" width="450" height="300" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/bcfb157ea79b4278a04b6af2dcac11e01d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
-You can also check the GDCU Carpentries website to learn
+### Setting up Rstudio
+
+Check the GDCU Carpentries website to about learn the steps of installation and R package requirements regarding your OS.
 
 ## Project Management in Rstudio
 
