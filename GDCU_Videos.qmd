@@ -63,6 +63,8 @@ The second video introduces the ways of interaction with R.
 
 ## Create Sub-folders
 
+To create sub-folders within your project folder, there are multiple ways to expand your
+
 ```{=html}
 <iframe title="GDCU_Day1_Part1_Subfolders_Create" width="450" height="300" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/f24a12c718fd4b9ebfa0df614f1c0fb11d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 ```
