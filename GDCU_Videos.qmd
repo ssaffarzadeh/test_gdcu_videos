@@ -51,13 +51,17 @@ Now, it's time to create your project folder. This could be done in several ways
 
 The first video explains you how to create and R project.
 
-\<iframe title width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/f24a12c718fd4b9ebfa0df614f1c0fb11d" allowfullscreen msallowfullscreen allow="fullscreen"\>
+<iframe title width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/f24a12c718fd4b9ebfa0df614f1c0fb11d" allowfullscreen msallowfullscreen allow="fullscreen">
 
-\</iframe\>
+<iframe>
 
 The second video introduces the ways of interaction with R.
 
 ## Create Sub-folders
+
+```{=html}
+<iframe title="GDCU_Day1_Part1_Subfolders_Create" width="450" height="300" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/f24a12c718fd4b9ebfa0df614f1c0fb11d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+```
 
 ## Create a script
 
