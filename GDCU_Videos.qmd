@@ -15,7 +15,7 @@ The package is a combination of online structured teachings from the Carpentries
 
 Learn more about the GDCU and its aim and objectives with our instructors giving detailed insightful context of the upcoming materials.
 
-{{< video https://collegerama.tudelft.nl/Mediasite/Play/bcfb157ea79b4278a04b6af2dcac11e01d >}}
+<iframe title="GDCU Workshop Day 1 Part 1 Intro" width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/bcfb157ea79b4278a04b6af2dcac11e01d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
 ## Overview
 
@@ -23,14 +23,24 @@ Learn more about the GDCU and its aim and objectives with our instructors giving
 
 Furthermore, the R and Rstudio as your working toolset is introduced to have a better understanding of capabilities of working with R through your projects.
 
-<iframe title="GDCU Workshop Day 1 Part 1 Intro" width="450" height="300" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/bcfb157ea79b4278a04b6af2dcac11e01d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+<iframe title="GDCU Day 1 Part 1 Overview" width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/87f50033c9a7421680c85245426bddaa1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
 ### Setting up Rstudio
 
 Check the GDCU Carpentries website to about learn the steps of installation and R package requirements regarding your OS.
 
+[**Check the summary and setup**](https://carpentries-incubator.github.io/r-geospatial-urban/index.html)
+
 ## Project Management in Rstudio
 
-To start your work in the Rstudio environment, creation and handling a project package is crucial. For you have to go over your project folder for file handling, data storing and management, or simply organizing your work.
+To start your work in the Rstudio environment, creation and handling a project package is crucial. For you have to go over your project folder for file handling, data storing and management, or simply organizing your workflow. Check the video below how the instructors introduce the main components of every R project folder and how to organize them appropriately.
 
-{{< video https://collegerama.tudelft.nl/Mediasite/Play/32ba9c6332f94e7586135faee677aa6b1d width="450" height="300">}}
+[**Organizing the working directory**](https://carpentries-incubator.github.io/r-geospatial-urban/01-intro-to-r.html#creating-rstudio-project "Click for details")
+
+<iframe title="GDCU_Day1_Part1_Project Management" width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/32ba9c6332f94e7586135faee677aa6b1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+## Create R Project
+
+Now, it's time to create your project folder. This could be done in several ways. Spend some time creating your project by click-and-go or type a command using R script all the way along. Check a detailed explanation of how to interact with R in the [Carpentries](https://carpentries-incubator.github.io/r-geospatial-urban/01-intro-to-r.html#two-main-ways-to-interact-with-r "How to interact with R").
+
+{{< <iframe title="GDCU_Day1_Part1_Project_Create" width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/3fa7e158464a406eb4822c259a8c1bce1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe> >}}
