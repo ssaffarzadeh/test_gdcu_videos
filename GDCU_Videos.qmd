@@ -15,9 +15,10 @@ The package is a combination of online structured teachings from the Carpentries
 
 Learn more about the GDCU and its aim and objectives with our instructors giving detailed insightful context of the upcoming materials.
 
+```{=html}
 <iframe title width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/bcfb157ea79b4278a04b6af2dcac11e01d" allowfullscreen msallowfullscreen allow="fullscreen">
-
 </iframe>
+```
 
 ## Overview
 
@@ -25,9 +26,10 @@ Learn more about the GDCU and its aim and objectives with our instructors giving
 
 Furthermore, the R and Rstudio as your working toolset is introduced to have a better understanding of capabilities of working with R through your projects.
 
+```{=html}
 <iframe title="GDCU Workshop Day 1 Part 1 Intro" width="450" height="300" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/bcfb157ea79b4278a04b6af2dcac11e01d" allowfullscreen msallowfullscreen allow="fullscreen">
-
 </iframe>
+```
 
 ### Setting up Rstudio
 
@@ -41,9 +43,10 @@ To start your work in the Rstudio environment, creation and handling a project p
 
 [**Organizing the working directory**](https://carpentries-incubator.github.io/r-geospatial-urban/01-intro-to-r.html#creating-rstudio-project "Click for details")
 
+```{=html}
 <iframe title width="450" height="300" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/32ba9c6332f94e7586135faee677aa6b1d" allowfullscreen msallowfullscreen allow="fullscreen">
-
 </iframe>
+```
 
 ## Create R Project
 
@@ -51,9 +54,10 @@ Now, it's time to create your project folder. This could be done in several ways
 
 The first video explains you how to create and R project.
 
+```{=html}
 <iframe title width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/f24a12c718fd4b9ebfa0df614f1c0fb11d" allowfullscreen msallowfullscreen allow="fullscreen">
-
 <iframe>
+```
 
 The second video introduces the ways of interaction with R.
 
