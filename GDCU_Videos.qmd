@@ -1,0 +1,34 @@
+---
+title: "GDCU Quarto Book"
+format: html
+---
+
+# Geospatial Data Carpentry for Urbanism with R
+
+This package is meant to help you learn how to apply geospatial analysis in the urban context using RStudio as an open-source and powerful software for automation, rescalability and reproducibility.
+
+The online materials of this instruction package is meant to help you working with R from scratch on your own, up to an elementary stage where you can perform first steps of major analytical methods and tools on a spatial context for your professional/academic work or for your own learning.
+
+The package is a combination of online structured teachings from the Carpentries Incubator and recorded video materials from the previous workshop that was held in-person at TU Delft in 2024.
+
+## Introduction to GDCU
+
+Learn more about the GDCU and its aim and objectives with our instructors giving detailed insightful context of the upcoming materials.
+
+{{< video https://collegerama.tudelft.nl/Mediasite/Play/bcfb157ea79b4278a04b6af2dcac11e01d >}}
+
+## Overview
+
+### What is R?
+
+Furthermore, the R and Rstudio as your working toolset is introduced to have a better understanding of capabilities of working with R through your projects.
+
+{{< video https://collegerama.tudelft.nl/Mediasite/Play/87f50033c9a7421680c85245426bddaa1d width="450" height="300" >}}
+
+You can also check the GDCU Carpentries website to learn
+
+## Project Management in Rstudio
+
+To start your work in the Rstudio environment, creation and handling a project package is crucial. For you have to go over your project folder for file handling, data storing and management, or simply organizing your work.
+
+{{< video https://collegerama.tudelft.nl/Mediasite/Play/32ba9c6332f94e7586135faee677aa6b1d width="450" height="300">}}
