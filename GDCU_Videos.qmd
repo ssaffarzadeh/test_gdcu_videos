@@ -15,7 +15,7 @@ The package is a combination of online structured teachings from the Carpentries
 
 Learn more about the GDCU and its aim and objectives with our instructors giving detailed insightful context of the upcoming materials.
 
-{{< <iframe title="GDCU Workshop Day 1 Part 1 Intro" width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/bcfb157ea79b4278a04b6af2dcac11e01d" allowfullscreen msallowfullscreen allow="fullscreen">>}}
+{{< video <iframe title="GDCU Workshop Day 1 Part 1 Intro" width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/bcfb157ea79b4278a04b6af2dcac11e01d" allowfullscreen msallowfullscreen allow="fullscreen">></iframe> >}}
 
 ## Overview
 
