@@ -1,0 +1,242 @@
+---
+title: "Day 1 Part 1"
+format: html
+---
+
+# Geospatial Data Carpentry for Urbanism with R
+
+This package is meant to help you learn how to apply geospatial analysis in the urban context using RStudio as an open-source and powerful software for automation, rescalability and reproducibility.
+
+The online materials of this instruction package is meant to help you working with R from scratch on your own, up to an elementary stage where you can perform first steps of major analytical methods and tools on a spatial context for your professional/academic work or for your own learning.
+
+The package is a combination of online structured teachings from the Carpentries Incubator and recorded video materials from the previous workshop that was held in-person at TU Delft in 2024.
+
+## Introduction to GDCU
+
+Learn more about the GDCU and its aim and objectives with our instructors giving detailed insightful context of the upcoming materials.
+
+```{=html}
+<iframe title="GDCU Workshop Day 1 Part 1 Intro" width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/bcfb157ea79b4278a04b6af2dcac11e01d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+```
+
+## Overview
+
+### What is R?
+
+Furthermore, the R and Rstudio as your working toolset is introduced to have a better understanding of the capabilities of working with R through your projects.
+
+```{=html}
+<iframe title="GDCU Day 1 Part 1 Overview" width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/87f50033c9a7421680c85245426bddaa1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+```
+
+### Setting up Rstudio
+
+Check the GDCU Carpentries website to learn about the installation steps and R package requirements regarding your OS.
+
+[**Check the summary and setup**](https://carpentries-incubator.github.io/r-geospatial-urban/index.html)
+
+## Project Management in Rstudio
+
+To start your work in the Rstudio environment, creating and handling a project package is crucial. You have to go over your project folder for file handling, data storing and management, or simply organizing your workflow. Check the video below how the instructors introduce the main components of every R project folder and how to organize them appropriately.
+
+[**Organizing the working directory**](https://carpentries-incubator.github.io/r-geospatial-urban/01-intro-to-r.html#creating-rstudio-project "Click for details")
+
+```{=html}
+<iframe title width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/32ba9c6332f94e7586135faee677aa6b1d" allowfullscreen msallowfullscreen allow="fullscreen">
+</iframe>
+```
+
+## Create R Project
+
+Now, it's time to create your project folder. This could be done in several ways. Spend some time creating your project by clicking and going, or type a command using an R script all the way along.
+
+The first video explains to you how to create an R project.
+
+```{=html}
+<iframe title width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/f24a12c718fd4b9ebfa0df614f1c0fb11d" allowfullscreen msallowfullscreen allow="fullscreen">
+<iframe>
+```
+
+### Tip
+
+To make sure your project is created and active in your environment, you can take a look at the file name in the top right corner of your window.
+
+```{=html}
+<iframe title="" width="450" height="300" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/8ba8fb2018904124921fae83ef9221c71d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+```
+
+The second video introduces the ways of interaction with R. You can also check the detailed instruction of how to interact with R in the [Carpentries](https://carpentries-incubator.github.io/r-geospatial-urban/01-intro-to-r.html#two-main-ways-to-interact-with-r "How to interact with R").
+
+```{=html}
+<iframe title="GDCU_Day1_Part1_work_directory_interact" width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/196db31bce704490871097b207e1353d1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+```
+
+### Create Sub-folders
+
+To create sub-folders within your project folder, there are multiple ways to expand and organize your project folders.
+
+```{=html}
+<iframe title="GDCU_Day1_Part1_Subfolders_Create" width="450" height="300" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/f24a12c718fd4b9ebfa0df614f1c0fb11d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+```
+
+## Create a script
+
+The key component to structuring your analytical workflow is to write the script. You need to create an R script file inside your project's folder.
+
+```{=html}
+<iframe title="GDCU_Day1_Part1_script_create" width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/029b487ba3cf4a5b97210ef8597bbaed1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+```
+
+### Create a script: Pros & Cons
+
+Here's a short discussion of what are the uses and difficulties of creating a script in the Rstudio environment.
+
+```{=html}
+<iframe title="GDCU_D1P1_Create Script Pros & Cons" width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/b477219aff3144e8bdee76a2efc01ee91d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+```
+
+## Running the script
+
+Now that you have your file and written script, you're ready to run the code and operate your first lines of command. Learn more about the console details and [Escaping](https://carpentries-incubator.github.io/r-geospatial-urban/01-intro-to-r.html#running-the-code).
+
+```{=html}
+<iframe title="" width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/b3f9535da10942279961d007582ead411d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+```
+
+## R Packages
+
+### Intro
+
+The R script can handle general operations for us. However, if we want to assign more complex and modular functions, we would need a set of tools that can fulfill the specific tasks for which they are developed. These toolsets are called "Package". You need to install the package and run its libraries to activate them.
+
+```{=html}
+<iframe title="" width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/1a44309646384323b7e1910e880d18f41d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+```
+
+### Cheatsheets
+
+It is totally normal not to know the package names, specific functions, or general syntax by heart. We've made a cheatsheet for you to take a quick look at whenever you need to write down a specific function or package in your script. Take a look at the [**cheatsheet files**](https://github.com/carpentries-incubator/r-geospatial-urban/blob/main/instructors/cheatsheet/GDCU2025_cheatsheet.pdf) or save them on your device in case of needing them.
+
+```{=html}
+<iframe title="" width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/545852a3d59342d2a2f1a864cf7630a21d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+```
+
+### Attention
+
+Your auto-completion may not operate the same way as the one in the instruction video. The auto-completion options in your environment may vary based on the installed packages in your Rstudio.
+
+```{=html}
+<iframe title="" width="450" height="300" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/adb906b337c649809953cade280943ba1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+```
+
+### Installing Tidyverse
+
+Now it's time to install one of the most commonly used packages in R, Tidyverse.
+
+```{=html}
+<iframe title="" width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/8a77e0287c3142ef980d206d4454ad611d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+```
+
+Think about the installation command; you'd need to write a specific line of code and run it in order to install a package. Heads up! once your install a package, you wouldn't need to run its code anytime after you reopen your project.
+
+```{=html}
+<iframe title="GDCU_D1P1_Tidyverse_Install_Pt.2" width="450" height="300" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/3730d3961a5940a3868902ace6ad1bf11d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+```
+
+## Code commenting
+
+### A question
+
+Now that you've installed your package, you don't need to run that line again. But what if you need to keep its script? Let's say you'd need to share your script file with a colleague who may not have the same packages installed on their device, so you need to keep the installation codes inside your script file.
+
+```{=html}
+<iframe title="" width="450" height="300" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/c590dcad055941adbf757adb78a473921d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+```
+
+A way to prevent your package installation codes from being run is to turn them into a comment. By doing that, you can keep your code lines inside your file without running them effectively.
+
+```{=html}
+<iframe title="" width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/c54be8c15a4040cf9e8b8cd9bc3eb4941d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+```
+
+### Some tips
+
+There are some general ideas you may like to know about commenting in code. Not only does the "\#" sign make your code line unexecutable, but also you can literally write your comments on each line of code in case you need to provide information or trace your steps later while you're reviewing your code or sharing it with somebody else.
+
+```{=html}
+<iframe title="" width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/699a21b12d00444cb110aa4e6437d1a51d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+```
+
+## Handling Paths
+
+There's an important step to address your folders' locations inside your script. In R, you wouldn't need to copy-paste a complete path directory, as long as you've saved the files inside the main project folder. Here you'll learn how to configure your directories.
+
+```{=html}
+<iframe title="" width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/e28edd3d4d7042a5898d5a2b066efddc1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+```
+
+### A small note
+
+You may notice some differences in your script compared to the video. It is because of the Copilot add-on that suggests further code lines. That is not necessary in your current progress.
+
+```{=html}
+<iframe title="GDCU_D1P1_Handling_Paths_Tip" width="450" height="300" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/00f24b5c0ea048ff9defcf0eaad13eba1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+```
+
+## Variables and assignments
+
+We introduced the packages and sets of specialized operators and functions. Speaking of which, along with simple operations that are already demonstrated, you can also define variables and assign them to new values using the "\<-" key combination.
+
+```{=html}
+<iframe title="GDCU_D1P1_Variables&Assignments" width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/31c61ead66cf4e339aa29ec4b7d87bec1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+```
+
+Check out the step-by-step description of [**assigning values**](https://carpentries-incubator.github.io/r-geospatial-urban/01-intro-to-r.html#variables-and-assignment) in the Carpentries.
+
+### Discussion
+
+Let's say you want to assign a variable to another existing variable in your script. What do you think will happen? Check your response with the video below.
+
+```{=html}
+<iframe title="" width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/c23c0e162daa4e0f98dcab8ad1eb883d1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+```
+
+## Download files
+
+You've made it so far. That's quite a progress!
+
+Now, this is the last step of your preparation. You need to download the files you need to work with. Take the notes from the video and the [**Carpentries' callout**](https://carpentries-incubator.github.io/r-geospatial-urban/01-intro-to-r.html#download-files).
+
+```{=html}
+<iframe title="" width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/58f4a9f9b17646b7b77b1091504918b81d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+```
+
+The error happened, right? What do you think caused the error? Take some time to think about it and play the next video while the instructors are trying to fix the error.
+
+```{=html}
+<iframe title="" width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/e6220a857e7b4902bc5628749a8ad0181d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+```
+
+### Warning and error messages
+
+The warning messages are pretty common to appear when running your code. In general, not all of them are serious problems that interrupt your code running, but you may need to be aware of them.
+
+```{=html}
+<iframe title="GDCU_D1P1_Download_Files_Discussions_Pt.3" width="450" height="300" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/afcc82fd70b6405a8c232d39d9bf50a31d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+```
+
+Although the warnings are not critical, the error messages on your R console are the high-priority problems that indicate your code is not operating properly and the tasks cannot be completed.
+
+Think about how to fix the error in the script and compare your evaluation with the following video.
+
+```{=html}
+<iframe title="GDCU_D1P1_Download_Files_Discussion_Pt.2" width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/5bdaef54e87e47218e42eb19dbcd5b311d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+```
+
+### Downloaded file path
+
+The error is fixed. Once you download your files, you'd better check where they're stored. This is crucial for any next step you take working with your data.
+
+```{=html}
+<iframe title="" width="450" height="300" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/2a08574fabf84bc6b3aa49864f58f1f51d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+```
