@@ -1,3 +1,10 @@
+format:
+  html:
+    toc: true            # Enables the TOC
+    toc-depth: 3         # Shows headings up to ### 
+    toc-location: right  # Can be left, right, or body
+    toc-title: "Contents"
+    
 website:
   sidebar:
     style: "docked"
