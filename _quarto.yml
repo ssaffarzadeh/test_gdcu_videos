@@ -1,18 +1,16 @@
-format:
-  html:
-    toc: true            # Enables the TOC
-    toc-depth: 3         # Shows headings up to ### 
-    toc-location: right  # Can be left, right, or body
-    toc-title: "Contents"
-    
+project:
+  type: website
+
 website:
+  title: "My Project Name"
   sidebar:
     style: "docked"
-    search: true
     contents:
-      - section: ""
-        contents:
-          - index.qmd
-      - section: "Introduction to GDCU"
-      - section: "Overview"
-        contents:
+      - index.qmd
+      - your-other-file.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-location: right
