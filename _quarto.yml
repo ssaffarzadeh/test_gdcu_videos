@@ -7,7 +7,7 @@ website:
     style: "docked"
     contents:
       - index.qmd
-      - Day 1 Part 2
+      - Day1_Part2.qmd
 
 format:
   html:
