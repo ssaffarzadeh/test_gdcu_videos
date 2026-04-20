@@ -1,0 +1,122 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "GDCU Quarto Book",
+    "section": "",
+    "text": "This package is meant to help you learn how to apply geospatial analysis in the urban context using RStudio as an open-source and powerful software for automation, rescalability and reproducibility.\nThe online materials of this instruction package is meant to help you working with R from scratch on your own, up to an elementary stage where you can perform first steps of major analytical methods and tools on a spatial context for your professional/academic work or for your own learning.\nThe package is a combination of online structured teachings from the Carpentries Incubator and recorded video materials from the previous workshop that was held in-person at TU Delft in 2024.\n\n\nLearn more about the GDCU and its aim and objectives with our instructors giving detailed insightful context of the upcoming materials.\n\n\n\n\n\n\nFurthermore, the R and Rstudio as your working toolset is introduced to have a better understanding of the capabilities of working with R through your projects.\n\n\n\n\nCheck the GDCU Carpentries website to learn about the installation steps and R package requirements regarding your OS.\nCheck the summary and setup\n\n\n\n\nTo start your work in the Rstudio environment, creating and handling a project package is crucial. You have to go over your project folder for file handling, data storing and management, or simply organizing your workflow. Check the video below how the instructors introduce the main components of every R project folder and how to organize them appropriately.\nOrganizing the working directory\n\n\n\n\n\nNow, it’s time to create your project folder. This could be done in several ways. Spend some time creating your project by clicking and going, or type a command using an R script all the way along.\nThe first video explains to you how to create an R project.\n\n&lt;iframe&gt;\n&lt;section id=\"tip\" class=\"level3\"&gt;\n&lt;h3&gt;Tip&lt;/h3&gt;\n&lt;p&gt;To make sure your project is created and active in your environment, you can take a look at the file name in the top right corner of your window.&lt;/p&gt;\n&lt;iframe title=\"\" width=\"450\" height=\"300\" frameborder=\"0\" scrolling=\"auto\" marginheight=\"0\" marginwidth=\"0\" src=\"https://collegerama.tudelft.nl/Mediasite/Play/8ba8fb2018904124921fae83ef9221c71d\" allowfullscreen msallowfullscreen allow=\"fullscreen\"&gt;\nThe second video introduces the ways of interaction with R. You can also check the detailed instruction of how to interact with R in the Carpentries.\n\n\n\n\nTo create sub-folders within your project folder, there are multiple ways to expand and organize your project folders.",
+    "crumbs": [
+      "GDCU Quarto Book"
+    ]
+  },
+  {
+    "objectID": "index.html#introduction-to-gdcu",
+    "href": "index.html#introduction-to-gdcu",
+    "title": "GDCU Quarto Book",
+    "section": "",
+    "text": "Learn more about the GDCU and its aim and objectives with our instructors giving detailed insightful context of the upcoming materials.",
+    "crumbs": [
+      "GDCU Quarto Book"
+    ]
+  },
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "GDCU Quarto Book",
+    "section": "",
+    "text": "Furthermore, the R and Rstudio as your working toolset is introduced to have a better understanding of the capabilities of working with R through your projects.\n\n\n\n\nCheck the GDCU Carpentries website to learn about the installation steps and R package requirements regarding your OS.\nCheck the summary and setup",
+    "crumbs": [
+      "GDCU Quarto Book"
+    ]
+  },
+  {
+    "objectID": "index.html#project-management-in-rstudio",
+    "href": "index.html#project-management-in-rstudio",
+    "title": "GDCU Quarto Book",
+    "section": "",
+    "text": "To start your work in the Rstudio environment, creating and handling a project package is crucial. You have to go over your project folder for file handling, data storing and management, or simply organizing your workflow. Check the video below how the instructors introduce the main components of every R project folder and how to organize them appropriately.\nOrganizing the working directory",
+    "crumbs": [
+      "GDCU Quarto Book"
+    ]
+  },
+  {
+    "objectID": "index.html#create-r-project",
+    "href": "index.html#create-r-project",
+    "title": "GDCU Quarto Book",
+    "section": "",
+    "text": "Now, it’s time to create your project folder. This could be done in several ways. Spend some time creating your project by clicking and going, or type a command using an R script all the way along.\nThe first video explains to you how to create an R project.\n\n&lt;iframe&gt;\n&lt;section id=\"tip\" class=\"level3\"&gt;\n&lt;h3&gt;Tip&lt;/h3&gt;\n&lt;p&gt;To make sure your project is created and active in your environment, you can take a look at the file name in the top right corner of your window.&lt;/p&gt;\n&lt;iframe title=\"\" width=\"450\" height=\"300\" frameborder=\"0\" scrolling=\"auto\" marginheight=\"0\" marginwidth=\"0\" src=\"https://collegerama.tudelft.nl/Mediasite/Play/8ba8fb2018904124921fae83ef9221c71d\" allowfullscreen msallowfullscreen allow=\"fullscreen\"&gt;\nThe second video introduces the ways of interaction with R. You can also check the detailed instruction of how to interact with R in the Carpentries.",
+    "crumbs": [
+      "GDCU Quarto Book"
+    ]
+  },
+  {
+    "objectID": "index.html#create-a-script",
+    "href": "index.html#create-a-script",
+    "title": "GDCU Quarto Book",
+    "section": "Create a script",
+    "text": "Create a script\nThe key component to structuring your analytical workflow is to write the script. You need to create an R script file inside your project’s folder.\n\n\nCreate a script: Pros & Cons\nHere’s a short discussion of what are the uses and difficulties of creating a script in the Rstudio environment.",
+    "crumbs": [
+      "GDCU Quarto Book"
+    ]
+  },
+  {
+    "objectID": "index.html#running-the-script",
+    "href": "index.html#running-the-script",
+    "title": "GDCU Quarto Book",
+    "section": "Running the script",
+    "text": "Running the script\nNow that you have your file and written script, you’re ready to run the code and operate your first lines of command. Learn more about the console details and Escaping.",
+    "crumbs": [
+      "GDCU Quarto Book"
+    ]
+  },
+  {
+    "objectID": "index.html#r-packages",
+    "href": "index.html#r-packages",
+    "title": "GDCU Quarto Book",
+    "section": "R Packages",
+    "text": "R Packages\n\nIntro\nThe R script can handle general operations for us. However, if we want to assign more complex and modular functions, we would need a set of tools that can fulfill the specific tasks for which they are developed. These toolsets are called “Package”. You need to install the package and run its libraries to activate them.\n\n\n\nCheatsheets\nIt is totally normal not to know the package names, specific functions, or general syntax by heart. We’ve made a cheatsheet for you to take a quick look at whenever you need to write down a specific function or package in your script. Take a look at the cheatsheet files or save them on your device in case of needing them.\n\n\n\nAttention\nYour auto-completion may not operate the same way as the one in the instruction video. The auto-completion options in your environment may vary based on the installed packages in your Rstudio.\n\n\n\nInstalling Tidyverse\nNow it’s time to install one of the most commonly used packages in R, Tidyverse.\n\nThink about the installation command; you’d need to write a specific line of code and run it in order to install a package. Heads up! once your install a package, you wouldn’t need to run its code anytime after you reopen your project.",
+    "crumbs": [
+      "GDCU Quarto Book"
+    ]
+  },
+  {
+    "objectID": "index.html#code-commenting",
+    "href": "index.html#code-commenting",
+    "title": "GDCU Quarto Book",
+    "section": "Code commenting",
+    "text": "Code commenting\n\nA question\nNow that you’ve installed your package, you don’t need to run that line again. But what if you need to keep its script? Let’s say you’d need to share your script file with a colleague who may not have the same packages installed on their device, so you need to keep the installation codes inside your script file.\n\nA way to prevent your package installation codes from being run is to turn them into a comment. By doing that, you can keep your code lines inside your file without running them effectively.\n\n\n\nSome tips\nThere are some general ideas you may like to know about commenting in code. Not only does the “#” sign make your code line unexecutable, but also you can literally write your comments on each line of code in case you need to provide information or trace your steps later while you’re reviewing your code or sharing it with somebody else.",
+    "crumbs": [
+      "GDCU Quarto Book"
+    ]
+  },
+  {
+    "objectID": "index.html#handling-paths",
+    "href": "index.html#handling-paths",
+    "title": "GDCU Quarto Book",
+    "section": "Handling Paths",
+    "text": "Handling Paths\nThere’s an important step to address your folders’ locations inside your script. In R, you wouldn’t need to copy-paste a complete path directory, as long as you’ve saved the files inside the main project folder. Here you’ll learn how to configure your directories.\n\n\nA small note\nYou may notice some differences in your script compared to the video. It is because of the Copilot add-on that suggests further code lines. That is not necessary in your current progress.",
+    "crumbs": [
+      "GDCU Quarto Book"
+    ]
+  },
+  {
+    "objectID": "index.html#variables-and-assignments",
+    "href": "index.html#variables-and-assignments",
+    "title": "GDCU Quarto Book",
+    "section": "Variables and assignments",
+    "text": "Variables and assignments\nWe introduced the packages and sets of specialized operators and functions. Speaking of which, along with simple operations that are already demonstrated, you can also define variables and assign them to new values using the “&lt;-” key combination.\n\nCheck out the step-by-step description of assigning values in the Carpentries.\n\nDiscussion\nLet’s say you want to assign a variable to another existing variable in your script. What do you think will happen? Check your response with the video below.",
+    "crumbs": [
+      "GDCU Quarto Book"
+    ]
+  },
+  {
+    "objectID": "index.html#download-files",
+    "href": "index.html#download-files",
+    "title": "GDCU Quarto Book",
+    "section": "Download files",
+    "text": "Download files\nYou’ve made it so far. That’s quite a progress!\nNow, this is the last step of your preparation. You need to download the files you need to work with. Take the notes from the video and the Carpentries’ callout.\n\nThe error happened, right? What do you think caused the error? Take some time to think about it and play the next video while the instructors are trying to fix the error.\n\n\nWarning and error messages\nThe warning messages are pretty common to appear when running your code. In general, not all of them are serious problems that interrupt your code running, but you may need to be aware of them.\n\nAlthough the warnings are not critical, the error messages on your R console are the high-priority problems that indicate your code is not operating properly and the tasks cannot be completed.\nThink about how to fix the error in the script and compare your evaluation with the following video.\n\n\n\nDownloaded file path\nThe error is fixed. Once you download your files, you’d better check where they’re stored. This is crucial for any next step you take working with your data.",
+    "crumbs": [
+      "GDCU Quarto Book"
+    ]
+  }
+]
