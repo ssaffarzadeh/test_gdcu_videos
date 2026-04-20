@@ -16,7 +16,7 @@ The package is a combination of online structured teachings from the Carpentries
 Learn more about the GDCU and its aim and objectives with our instructors giving detailed insightful context of the upcoming materials.
 
 ```{=html}
-<iframe title="GDCU Workshop Day 1 Part 1 Intro" width="450" height="300" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/bcfb157ea79b4278a04b6af2dcac11e01d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+<iframe title="GDCU Workshop Day 1 Part 1 Intro" width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/bcfb157ea79b4278a04b6af2dcac11e01d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 ```
 
 ## Overview
@@ -26,7 +26,7 @@ Learn more about the GDCU and its aim and objectives with our instructors giving
 Furthermore, the R and Rstudio as your working toolset is introduced to have a better understanding of the capabilities of working with R through your projects.
 
 ```{=html}
-<iframe title="GDCU Day 1 Part 1 Overview" width="450" height="300" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/87f50033c9a7421680c85245426bddaa1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+<iframe title="GDCU Day 1 Part 1 Overview" width="800" height="500" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/87f50033c9a7421680c85245426bddaa1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 ```
 
 ### Setting up Rstudio
